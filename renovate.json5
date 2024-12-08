@@ -1,7 +1,7 @@
 {
-    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "extends": [
-        # Pin to the latest version to avoid circular dependency
-        "github>juancarlosjr97/renovate-configuration"
-    ]
+  $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  extends: [
+    // Pin to the latest version to avoid circular dependency
+    "github>juancarlosjr97/renovate-configuration",
+  ],
 }
