@@ -1,7 +1,7 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
     "extends": [
-        // In order to avoid circular dependency, the extended configuration does not use the hash but the default branch
+        # Pin to the latest version to avoid circular dependency
         "github>juancarlosjr97/renovate-configuration"
     ]
 }
