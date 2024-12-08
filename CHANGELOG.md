@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.1.2](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.1...0.1.2) (2024-12-08)
+
+### Chores
+
+* add reason for pinning to latest version ([aad26d4](https://github.com/juancarlosjr97/renovate-configuration/commit/aad26d4730e45c6b13103ea5e4bce0d01d358f6e))
+
 ## [0.1.1](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.0...0.1.1) (2024-12-07)
 
 ### Documentation
