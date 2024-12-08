@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.1.4](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.3...0.1.4) (2024-12-08)
+
+### Chores
+
+* add schema definition to release-it ([8bb25e7](https://github.com/juancarlosjr97/renovate-configuration/commit/8bb25e783e3ed97b1744d47ab6e127c1294ce9f0))
+
 ## [0.1.3](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.2...0.1.3) (2024-12-08)
 
 ### Bug Fixes
