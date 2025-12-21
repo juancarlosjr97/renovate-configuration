@@ -31,5 +31,14 @@
         "group:all"
     ],
     "osvVulnerabilityAlerts": true,
+    "packageRules": [
+        {
+            "description": "Pin actions/checkout to v5 until container actions support v6 credential storage",
+            "matchPackageNames": [
+                "actions/checkout"
+            ],
+            "allowedVersions": "<6.0.0"
+        }
+    ],
     "platformAutomerge": true
 }
