@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.1.5](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.4...0.1.5) (2025-12-22)
+
+### Bug Fixes
+
+* add packageRule to pin actions/checkout to v5 ([#6](https://github.com/juancarlosjr97/renovate-configuration/issues/6)) ([b14013e](https://github.com/juancarlosjr97/renovate-configuration/commit/b14013eee37399afffd981c6d86aa0711ed1e799))
+
 ## [0.1.4](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.3...0.1.4) (2024-12-08)
 
 ### Chores
