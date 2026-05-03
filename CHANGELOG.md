@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.1.9](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.8...0.1.9) (2026-05-03)
+
+### Chores
+
+* **deps:** update juancarlosjr97/github-actions-workflows-to-rule-them-all digest to 7610c3e ([#11](https://github.com/juancarlosjr97/renovate-configuration/issues/11)) ([01319cc](https://github.com/juancarlosjr97/renovate-configuration/commit/01319cc5eff4e2863fff168a16728f795153ba38))
+
 ## [0.1.8](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.7...0.1.8) (2026-05-03)
 
 ### Chores
