@@ -8,7 +8,7 @@ on:
 jobs:
   release-automation:
     # Pin to the latest version to avoid circular dependency
-    uses: juancarlosjr97/github-actions-workflows-to-rule-them-all/.github/workflows/shared-release-automation.yml@43dbe25b9c88c347abbc23a6ddeb1ba994bb88b0 # main
+    uses: juancarlosjr97/github-actions-workflows-to-rule-them-all/.github/workflows/shared-release-automation.yml@7575b246ff039b9dc55f05021fab2fc7ee8cbd60 # main
     secrets:
       PROJECT_GITHUB_TOKEN: ${{ secrets.PROJECT_GITHUB_TOKEN }}
     with:
