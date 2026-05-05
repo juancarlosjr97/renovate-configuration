@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.2.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.12...0.2.0) (2026-05-05)
+
+### Features
+
+* add :semanticCommits preset to default Renovate configuration ([#16](https://github.com/juancarlosjr97/renovate-configuration/issues/16)) ([7b1940b](https://github.com/juancarlosjr97/renovate-configuration/commit/7b1940b47360008a1bd77ca637b659baea90088b))
+
 ## [0.1.12](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.11...0.1.12) (2026-05-05)
 
 ## [0.1.11](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.10...0.1.11) (2026-05-04)
