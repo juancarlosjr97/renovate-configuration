@@ -3,6 +3,8 @@
 This changelog is auto generated using release-it.
 
 
+## [0.1.12](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.11...0.1.12) (2026-05-05)
+
 ## [0.1.11](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.10...0.1.11) (2026-05-04)
 
 ## [0.1.10](https://github.com/juancarlosjr97/renovate-configuration/compare/0.1.9...0.1.10) (2026-05-04)
