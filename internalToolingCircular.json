@@ -1,0 +1,18 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "main-pin": {
+        "description": "Preset for core internal tooling repositories to prevent circular dependency update churn. Intended ONLY for: juancarlosjr97/pre-commit-to-rule-them-all, juancarlosjr97/github-actions-workflows-to-rule-them-all, juancarlosjr97/release-it-containerized, juancarlosjr97/renovate-configuration",
+        "extends": [
+            "github>juancarlosjr97/renovate-configuration"
+        ],
+        "packageRules": [
+            {
+                "description": "Disable updates for core internal tooling repositories to prevent circular dependency update churn",
+                "matchPackagePatterns": [
+                    "^juancarlosjr97/(pre-commit-to-rule-them-all|github-actions-workflows-to-rule-them-all|release-it-containerized|renovate-configuration)"
+                ],
+                "enabled": false
+            }
+        ]
+    }
+}
