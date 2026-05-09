@@ -1,7 +1,8 @@
 {
   $schema: "https://docs.renovatebot.com/renovate-schema.json",
   extends: [
-    // Use the internal tooling circular preset to avoid circular dependency update churn
-    "github>juancarlosjr97/renovate-configuration:internalToolingCircular/main-pin",
+    "github>juancarlosjr97/renovate-configuration",
+    // Prevent circular update churn among core internal tooling repos
+    "github>juancarlosjr97/renovate-configuration:docs/internal-tooling-circular/main-pin",
   ],
 }
