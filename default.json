@@ -34,16 +34,6 @@
     "osvVulnerabilityAlerts": true,
     "packageRules": [
         {
-            "description": "Keep internal shared-tooling references pinned to main and block Renovate churn between internal tooling repositories",
-            "matchPackageNames": [
-                "juancarlosjr97/pre-commit-to-rule-them-all",
-                "juancarlosjr97/github-actions-workflows-to-rule-them-all",
-                "juancarlosjr97/release-it-containerized",
-                "juancarlosjr97/renovate-configuration"
-            ],
-            "enabled": false
-        },
-        {
             "description": "Pin actions/checkout to v5 until container actions support v6 credential storage",
             "matchPackageNames": [
                 "actions/checkout"

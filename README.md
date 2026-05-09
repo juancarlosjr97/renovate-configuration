@@ -4,21 +4,14 @@ Centralized configuration for Renovate.
 
 ## Usage
 
-For the internal shared-tooling ecosystem, pin this configuration to `main` intentionally:
+Please use the latest tag as a reference from the [latest release](https://github.com/juancarlosjr97/renovate-configuration/releases/latest).
 
 ```json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>juancarlosjr97/renovate-configuration#main"]
+  "extends": ["github>juancarlosjr97/renovate-configuration#x.y.z"]
 }
 ```
-
-This branch pinning is intentional to reduce circular Renovate update churn between:
-
-- `juancarlosjr97/pre-commit-to-rule-them-all`
-- `juancarlosjr97/github-actions-workflows-to-rule-them-all`
-- `juancarlosjr97/release-it-containerized`
-- `juancarlosjr97/renovate-configuration`
 
 ## Configuration
 
