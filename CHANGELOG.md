@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.4.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.3...0.4.0) (2026-05-09)
+
+### Features
+
+* add repository pre-commit config using shared common bundle ([#32](https://github.com/juancarlosjr97/renovate-configuration/issues/32)) ([74c1f22](https://github.com/juancarlosjr97/renovate-configuration/commit/74c1f229800f3d179816b7138c9b5027fa88f2cb))
+
 ## [0.3.3](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.2...0.3.3) (2026-05-09)
 
 ### Bug Fixes
