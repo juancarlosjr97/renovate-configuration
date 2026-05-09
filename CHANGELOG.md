@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.3.3](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.2...0.3.3) (2026-05-09)
+
+### Bug Fixes
+
+* use double-slash path syntax for presets/internal-tooling-circular preset reference ([#31](https://github.com/juancarlosjr97/renovate-configuration/issues/31)) ([dd6511e](https://github.com/juancarlosjr97/renovate-configuration/commit/dd6511e59bdfd7d680ea74e4ce304e397634070a))
+
 ## [0.3.2](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.1...0.3.2) (2026-05-09)
 
 ### Bug Fixes
