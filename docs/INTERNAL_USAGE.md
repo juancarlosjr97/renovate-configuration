@@ -1,6 +1,6 @@
 # Internal Usage
 
-## `docs/internal-tooling-circular`
+## `presets/internal-tooling-circular`
 
 > ⚠️ **This preset is intended ONLY for the four core internal tooling repositories listed below.**
 
@@ -24,7 +24,7 @@ Each of the four internal repositories must extend **both** the default configur
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "github>juancarlosjr97/renovate-configuration",
-    "github>juancarlosjr97/renovate-configuration:docs/internal-tooling-circular"
+    "github>juancarlosjr97/renovate-configuration:presets/internal-tooling-circular"
   ]
 }
 ```
