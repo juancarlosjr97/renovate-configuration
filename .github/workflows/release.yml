@@ -7,8 +7,8 @@ on:
 
 jobs:
   release-automation:
-    # Intentionally pinned to main to avoid circular Renovate update churn in the internal tooling ecosystem
-    uses: juancarlosjr97/github-actions-workflows-to-rule-them-all/.github/workflows/shared-release-automation.yml@main
+    # Pin to the latest version to avoid circular dependency
+    uses: juancarlosjr97/github-actions-workflows-to-rule-them-all/.github/workflows/shared-release-automation.yml@5bc16c22a9840fcf84bce3df72875e2070ddbdb0 # main
     secrets:
       PROJECT_GITHUB_TOKEN: ${{ secrets.PROJECT_GITHUB_TOKEN }}
     with:

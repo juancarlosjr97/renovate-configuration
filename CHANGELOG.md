@@ -3,6 +3,30 @@
 This changelog is auto generated using release-it.
 
 
+## [0.3.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.7...0.3.0) (2026-05-09)
+
+### Features
+
+* add presets/internal-tooling-circular preset to stop circular update churn ([#24](https://github.com/juancarlosjr97/renovate-configuration/issues/24)) ([5acddf1](https://github.com/juancarlosjr97/renovate-configuration/commit/5acddf14fe3a062def4f65b2b8e79ec9a665aa54))
+
+## [0.2.7](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.6...0.2.7) (2026-05-09)
+
+### Chores
+
+* **deps:** update juancarlosjr97/github-actions-workflows-to-rule-them-all digest to 5bc16c2 ([#27](https://github.com/juancarlosjr97/renovate-configuration/issues/27)) ([ad2ffd2](https://github.com/juancarlosjr97/renovate-configuration/commit/ad2ffd28669deecdd0bac4098107273000daca0f))
+
+## [0.2.6](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.5...0.2.6) (2026-05-08)
+
+### Chores
+
+* **deps:** update juancarlosjr97/github-actions-workflows-to-rule-them-all digest to 0927dc5 ([#26](https://github.com/juancarlosjr97/renovate-configuration/issues/26)) ([9683839](https://github.com/juancarlosjr97/renovate-configuration/commit/96838396d8e0d0687ef97aed4eb7a026a1c0303c))
+
+## [0.2.5](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.4...0.2.5) (2026-05-08)
+
+### Chores
+
+* **deps:** update juancarlosjr97/github-actions-workflows-to-rule-them-all digest to 927604e ([#25](https://github.com/juancarlosjr97/renovate-configuration/issues/25)) ([b9afe04](https://github.com/juancarlosjr97/renovate-configuration/commit/b9afe04bc6f9ff22f18ff10cc1db131c311ecc6d))
+
 ## [0.2.4](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.3...0.2.4) (2026-05-07)
 
 ### Chores
