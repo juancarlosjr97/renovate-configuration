@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.3.1](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.0...0.3.1) (2026-05-09)
+
+### Chores
+
+* pin internal tooling references to main and disable churn updates ([#22](https://github.com/juancarlosjr97/renovate-configuration/issues/22)) ([c43ff84](https://github.com/juancarlosjr97/renovate-configuration/commit/c43ff843549c9c80f8502c3ee7be0c026dafdfdd))
+
 ## [0.3.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.7...0.3.0) (2026-05-09)
 
 ### Features
