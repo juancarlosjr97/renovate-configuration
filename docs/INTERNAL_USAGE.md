@@ -17,14 +17,14 @@ Without this preset, Renovate continuously generates PRs updating cross-referenc
 
 ### Usage
 
-Each of the four internal repositories must extend **both** the default configuration and this preset. Find the latest release tag on the [releases page](https://github.com/juancarlosjr97/renovate-configuration/releases/latest) and replace `x.y.z`:
+Each of the four internal repositories must extend **both** the default configuration and this preset (both unpinned, tracking latest):
 
 ```json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>juancarlosjr97/renovate-configuration#x.y.z",
-    "github>juancarlosjr97/renovate-configuration:docs/internal-tooling-circular/main-pin#x.y.z"
+    "github>juancarlosjr97/renovate-configuration",
+    "github>juancarlosjr97/renovate-configuration:docs/internal-tooling-circular/main-pin"
   ]
 }
 ```
