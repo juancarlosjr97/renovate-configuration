@@ -3,6 +3,6 @@
   extends: [
     "github>juancarlosjr97/renovate-configuration",
     // Prevent circular update churn among core internal tooling repos
-    "github>juancarlosjr97/renovate-configuration:docs/internal-tooling-circular/main-pin",
+    "github>juancarlosjr97/renovate-configuration:docs/internal-tooling-circular",
   ],
 }
