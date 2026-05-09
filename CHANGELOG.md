@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.3.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.7...0.3.0) (2026-05-09)
+
+### Features
+
+* add presets/internal-tooling-circular preset to stop circular update churn ([#24](https://github.com/juancarlosjr97/renovate-configuration/issues/24)) ([5acddf1](https://github.com/juancarlosjr97/renovate-configuration/commit/5acddf14fe3a062def4f65b2b8e79ec9a665aa54))
+
 ## [0.2.7](https://github.com/juancarlosjr97/renovate-configuration/compare/0.2.6...0.2.7) (2026-05-09)
 
 ### Chores
