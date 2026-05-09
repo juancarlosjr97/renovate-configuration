@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.3.2](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.1...0.3.2) (2026-05-09)
+
+### Bug Fixes
+
+* add missing source branch to renovate configuration ([#29](https://github.com/juancarlosjr97/renovate-configuration/issues/29)) ([c94cda6](https://github.com/juancarlosjr97/renovate-configuration/commit/c94cda637e3ce1ff3ac0a8be424e6833bf506eeb))
+
 ## [0.3.1](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.0...0.3.1) (2026-05-09)
 
 ### Chores
