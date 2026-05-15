@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.5.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.4.0...0.5.0) (2026-05-15)
+
+### Features
+
+* aadd minimumReleaseAge of 5 days to Renovate configuration ([#33](https://github.com/juancarlosjr97/renovate-configuration/issues/33)) ([aad5599](https://github.com/juancarlosjr97/renovate-configuration/commit/aad55998fde089ef55fd4619ec1b9647d3c7ebcf))
+
 ## [0.4.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.3.3...0.4.0) (2026-05-09)
 
 ### Features
